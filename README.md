@@ -20,45 +20,58 @@
 - [New Downloads Bar](#new-downloads-bar)
 - [Intuitive gesture navigation](#intuitive-gesture-navigation)
 - [Simple Finbar](#simple-findbar)
-
-
+  
+&nbsp;
 
 &nbsp;
+
 <div align="center" width="640">
-<h3>Multi-row Tabs</h3>
 <img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="640" height="auto"/>
 </div>
-&nbsp;
 
 ### Multi-row Tabs
+
+Tabs stack into multiple rows for better management and access. Users can view more tabs at once, easing navigation and reducing scrolling.
+
+Pinned Tabs are set to the left for quick access.
+
 :mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed;
 
-:dart: Pinned Tabs are set to the left for quick access;
 
 :ok_hand: Expect perfect UI consistency.
 
 &nbsp;
+
+&nbsp;
+
 <div align="center">
-<h3>Combined Tab and Urlbar</h3>
 <img src="assets/urltab.png" alt="firefox alpha combined tab and urlbar" width="640" height="auto"/>
 </div>
-&nbsp;
+
+### Combined Tab and Urlbar
 
 Greatly enhances usability and provides a more intuitive browsing experience, eliminating the need for constant switching between UI sections.
 
-:computer_mouse: `LMB` on Active Tab to select url;
+`LMB` on Active Tab to select url;
 
-:computer_mouse: `MMB` on Inactive Tab to Close;
+`MMB` on Inactive Tab to Close;
 
-:computer_mouse: `MMB` on empty space to open New Tab;
+`MMB` on empty space to open New Tab;
 
 :monocle_face: Rare glitches may occur due to CSS limits.
 
 &nbsp;
+
+&nbsp;
+
 <div align="center">
-<h3>Multi-row Bookmarks</h3>
+
 <img src="assets/bookmarks.png" alt="firefox alpha multi-row bookmarks" width="640" height="auto"/>
-</div>&nbsp;
+</div>
+
+### Multi-row Bookmarks
+
+Bookmarks now stack into multiple rows below Tabs to enhance organization and accessibility.
 
 Add `History` / `Downloads` to Bookmarks Panel for easy access;
 
@@ -67,46 +80,61 @@ Add `History` / `Downloads` to Bookmarks Panel for easy access;
 :x: Useless folder icons are removed. Now You can add `💪 Emojis` to folder names for better visual identification. 
 
 &nbsp;
+
+&nbsp;
+
 <div align="center">
-<h3>New Clean Menu</h3>
 <img src="assets/menu.png" alt="firefox alpha new simple clean menu" width="640" height="auto"/>
-</div>&nbsp;
+</div>
+
+### New Clean Menu
 
 New Menu design with clear UI. Unnecessary elements are removed.
 
 :link: Menu can be customized with [simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) to remove multiple unwanted items.
 
+&nbsp;
 
 &nbsp;
+
 <div align="center">
 <img src="assets/downloads.png" alt="firefox alpha new downloads bar" width="640" height="auto"/>
 </div>
 
-<div align="center">
-<h3><strong>New Downloads Bar</strong></h3>
-</div>
+### New Downloads Bar
 
 New Downloads identificator and simple status panel are now with human design.
 
 &nbsp;
 
-<div align="center">
-<h3>Intuitive gesture navigation</h3>
-</div>
+&nbsp;
 
-:arrow_left: Swipe Left to move Back; &nbsp; 
-:arrow_right: Swipe Right to move Forward; &nbsp; 
-:arrows_counterclockwise: Pull Down to Refresh Page; &nbsp; 
+### Intuitive gesture navigation
+
+:arrow_left: Swipe Left to move Back;
+
+:arrow_right: Swipe Right to move Forward;
+
+:arrows_counterclockwise: Pull Down to Refresh Page;
+
 :asterisk: Configure gestures in the Settings.
 
 &nbsp;
+
+&nbsp;
+
 <div align="center">
-<h3>Simple Findbar</h3>
+
 <img src="assets/findbar.png" alt="firefox alpha simple findbar" width="640" height="auto"/>
-</div>&nbsp;
+</div>
+
+### Simple Findbar
 
 `Ctrl+F` to find on webpage quickly. Findbar now natively integrated into UI. 
 
+&nbsp;
+
+&nbsp;
 
 
 
