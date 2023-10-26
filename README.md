@@ -5,8 +5,6 @@
 <h3>
 <a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
 <span> &nbsp;&nbsp;&nbsp; </span>
-<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#heavy_plus_sign-add-extensions">:heavy_plus_sign: Add Extensions</a>
-<span> &nbsp;&nbsp;&nbsp; </span>
 <a href="https://github.com/Tagggar/Firefox-Alpha/issues/">:space_invader: Report Bug</a>
 </h3>
 </div>
