@@ -13,33 +13,14 @@
 
 - Simple and minimal UI with zero buttons
 - Fast and light
-- [Multi-row Tabs](#multi-row-tabs)
 - [Combined Tab and Urlbar](#combined-tab-and-urlbar)
+- [Multi-row Tabs](#multi-row-tabs)
 - [Multi-row Bookmarks](#multi-row-bookmarks)
 - [New Clean Menu](#new-clean-menu)
 - [New Downloads Bar](#new-downloads-bar)
 - [Intuitive gesture navigation](#intuitive-gesture-navigation)
 - [Simple Finbar](#simple-findbar)
   
-&nbsp;
-
-&nbsp;
-
-<div align="center" width="640">
-<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="640" height="auto"/>
-</div>
-
-### Multi-row Tabs
-
-Tabs stack into multiple rows for better management and access. Users can view more tabs at once, easing navigation and reducing scrolling.
-
-Pinned Tabs are set to the left for quick access.
-
-:mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed;
-
-
-:ok_hand: Expect perfect UI consistency.
-
 &nbsp;
 
 &nbsp;
@@ -64,8 +45,25 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 &nbsp;
 
-<div align="center">
+<div align="center" width="640">
+<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="640" height="auto"/>
+</div>
 
+### Multi-row Tabs
+
+Stacking tabs into multiple rows enhances tab management, simplifies navigation, and optimizes screen space, ensuring efficient multitasking and improved user experience:
+
+:round_pushpin: Pinned Tabs are set to the left for quick access;
+
+:mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed;
+
+:ok_hand: Expect perfect UI consistency.
+
+&nbsp;
+
+&nbsp;
+
+<div align="center">
 <img src="assets/bookmarks.png" alt="firefox alpha multi-row bookmarks" width="640" height="auto"/>
 </div>
 
