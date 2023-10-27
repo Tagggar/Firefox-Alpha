@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/preview.gif" alt="firefox alpha preview animation" width="368" height="auto" />
-<h1>Firefox-Alphα :moyai: Super clear desktop browser</h1>
+<h2>Firefox-Alphα :moyai: Super clear desktop browser</h2>
   
 <h3>
 <a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
@@ -9,7 +9,7 @@
 </h3>
 </div>
 
-### Simple and minimal Firefox configuration with zero buttons for simplicity and intuitive gesture controls. ⚡Fast and light
+### Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
 ### Features:
 
