@@ -141,7 +141,7 @@ New Downloads identificator and simple status panel are now with human design.
 
 
 <div align="center">
-<img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
+<img src="assets/gesture.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
 </div>
 
 ### Gesture navigation
