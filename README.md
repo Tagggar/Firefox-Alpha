@@ -13,17 +13,17 @@
 
 ### Features:
 
-- [Combined Tab and Urlbar](#combined-tab-and-urlbar)
-- [Multi-row Tabs](#multi-row-tabs)
-- [Multi-row Bookmarks](#multi-row-bookmarks)
-- [New Clean Menu](#new-clean-menu)
-- [New Downloads Bar](#new-downloads-bar)
-- [Simple Finbar](#simple-findbar)
-- [Adaptive Color](#adaptive-color)
-- [Gesture navigation](#gesture-navigation)
+* [x] [Combined Tab and Urlbar](#combined-tab-and-urlbar)
+* [x] [Multi-row Tabs](#multi-row-tabs)
+* [x] [Multi-row Bookmarks](#multi-row-bookmarks)
+* [x] [New Clean Menu](#new-clean-menu)
+* [x] [New Downloads Bar](#new-downloads-bar)
+* [x] [Simple Finbar](#simple-findbar)
+* [x] [Adaptive Color](#adaptive-color)
+* [x] [Gesture navigation](#gesture-navigation)
+* [x] [Security](#security)
 
 &nbsp;
-
 
 
 <div align="center">
@@ -130,11 +130,11 @@ New Downloads identificator and simple status panel are now with human design.
 
 :warning: Configure in the Extension Settings:
 
-☑️ Allow light tab bar
+* [x] Allow light tab bar
 
-☑️ Dynamic color update
+* [x] Dynamic color update
 
-☑️ Ignore designated color
+* [x] Ignore designated color
 
 &nbsp;
 
@@ -160,7 +160,7 @@ New Downloads identificator and simple status panel are now with human design.
 
 ### Security 
 
-🔗 **[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - is the only security extension you'll need. Follow the configuration guides and your personal preferences. It prevents loading heavy scripts, ensuring faster and more secure web surfing.
+🔗 **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - efficient wide-spectrum content blocker. It blocks ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for faster and secure web surfing.
 
 &nbsp;
 
