@@ -18,7 +18,7 @@
 - [Multi-row Bookmarks](#multi-row-bookmarks)
 - [New Clean Menu](#new-clean-menu)
 - [New Downloads Bar](#new-downloads-bar)
-- [Intuitive gesture navigation](#intuitive-gesture-navigation)
+- [Gesture navigation](#gesture-navigation)
 - [Simple Finbar](#simple-findbar)
   
 &nbsp;
@@ -107,13 +107,13 @@ New Downloads identificator and simple status panel are now with human design.
 
 &nbsp;
 
-### Intuitive gesture navigation
+### Gesture navigation
 
-:arrow_left: Swipe Left to move Back;
+:arrow_left: `Swipe-Right` to go `Back`;
 
-:arrow_right: Swipe Right to move Forward;
+:arrow_right: `Swipe-Left` to go `Forward`;
 
-:arrows_counterclockwise: Pull Down to Refresh Page;
+:arrows_clockwise: `Pull-Down` to `Reload`;
 
 :asterisk: Configure gestures in the Settings.
 
