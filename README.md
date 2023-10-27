@@ -141,7 +141,7 @@ New Downloads identificator and simple status panel are now with human design.
 
 
 <div align="center">
-<img src="assets/gesture.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
+<img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
 </div>
 
 ### Gesture navigation
@@ -158,26 +158,17 @@ New Downloads identificator and simple status panel are now with human design.
 
 &nbsp;
 
+### Security 
 
+🔗 **[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - is the only security extension you'll need. Follow the configuration guides and your personal preferences. It prevents loading heavy scripts, ensuring faster and more secure web surfing.
 
-
-
-
-
-
-
-
-
-
-
-
-
+&nbsp;
 
 
 <!-- Install -->
 ## :arrow_down: Install:
 
-1. In `about:support` > open Firefox profile folder and put files inside `chrome` folder:
+1. In `about:support` > open Firefox profile folder and put `chrome` folder:
     
     📂 `...` `/` `firefox profile` `/` `chrome` `/` `userChrome.css`
     
@@ -189,12 +180,5 @@ New Downloads identificator and simple status panel are now with human design.
 
     `browser.urlbar.clickSelectsAll` > `true` for url selection in single click;
 
-    `browser.compactmode.show` > `true` to enable Compact Mode.
 
-### :heavy_plus_sign: Add Extensions:
 
-**[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - to make browser UI match the website color;
-
-**[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - to browse faster with mouse gestures;
-
-**[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - the only security extension You need.
