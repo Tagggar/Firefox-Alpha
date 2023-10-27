@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/preview.gif" alt="firefox alpha preview animation" width="368" height="auto" />
-<h2>Firefox-Alphα :moyai: Super clear desktop browser</h2>
+<h1>Firefox-Alphα :moyai: Super clear desktop browser</h1>
   
 <h3>
 <a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
@@ -9,21 +9,22 @@
 </h3>
 </div>
 
-### Master Firefox configuration for simplicity and intuitive controls
+### Simple and minimal Firefox configuration with zero buttons for simplicity and intuitive gesture controls. ⚡Fast and light
 
-- Simple and minimal UI with zero buttons
-- Fast and light
+### Features:
+
 - [Combined Tab and Urlbar](#combined-tab-and-urlbar)
 - [Multi-row Tabs](#multi-row-tabs)
 - [Multi-row Bookmarks](#multi-row-bookmarks)
 - [New Clean Menu](#new-clean-menu)
 - [New Downloads Bar](#new-downloads-bar)
-- [Gesture navigation](#gesture-navigation)
 - [Simple Finbar](#simple-findbar)
-  
-&nbsp;
+- [Adaptive Color](#adaptive-color)
+- [Gesture navigation](#gesture-navigation)
 
 &nbsp;
+
+
 
 <div align="center">
 <img src="assets/urltab.png" alt="firefox alpha combined tab and urlbar" width="640" height="auto"/>
@@ -43,7 +44,7 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 &nbsp;
 
-&nbsp;
+
 
 <div align="center" width="640">
 <img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="640" height="auto"/>
@@ -51,17 +52,19 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 ### Multi-row Tabs
 
-Stacking tabs into multiple rows enhances tab management, simplifies navigation, and optimizes screen space, ensuring efficient multitasking and improved user experience:
+Stacking tabs into multiple rows enhances tabs access, simplifies navigation, and optimizes screen space, ensuring efficient multitasking and improved user experience:
 
-:round_pushpin: Pinned Tabs are set to the left for quick access;
+`RMB` on Tab to open Tab controls (Pin/Mute/Bookmark/...);
 
-:mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed;
+:round_pushpin: Pinned Tabs are set to the left corner;
+
+:mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed; 
 
 :ok_hand: Expect perfect UI consistency.
 
 &nbsp;
 
-&nbsp;
+
 
 <div align="center">
 <img src="assets/bookmarks.png" alt="firefox alpha multi-row bookmarks" width="640" height="auto"/>
@@ -69,9 +72,9 @@ Stacking tabs into multiple rows enhances tab management, simplifies navigation,
 
 ### Multi-row Bookmarks
 
-Bookmarks now stack into multiple rows below Tabs to enhance organization and accessibility.
+Bookmarks are now organized in multiple rows below the Tabs, improving accessibility and resource management, especially for users with a large number of bookmarks:
 
-Add `History` / `Downloads` to Bookmarks Panel for easy access;
+Add `History` / `Downloads` to Bookmarks Panel for quick access;
 
 :point_right: `Bookmarks Toolbar` > `Show only on New Tab` to display Bookmarks only on New Tab;
 
@@ -79,7 +82,7 @@ Add `History` / `Downloads` to Bookmarks Panel for easy access;
 
 &nbsp;
 
-&nbsp;
+
 
 <div align="center">
 <img src="assets/menu.png" alt="firefox alpha new simple clean menu" width="640" height="auto"/>
@@ -87,13 +90,15 @@ Add `History` / `Downloads` to Bookmarks Panel for easy access;
 
 ### New Clean Menu
 
-New Menu design with clear UI. Unnecessary elements are removed.
+New consistent Main Menu design, with clear and uniform UI, ensures efficient access to key features. Unnecessary elements are removed to simplify the layout and navigation.
 
-:link: Menu can be customized with [simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard) to remove multiple unwanted items.
+`Alt` / `Option` to open Main Menu with access to all browser features and controls from one place;
+
+:link: Menu can be customized with **[simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard)**.
 
 &nbsp;
 
-&nbsp;
+
 
 <div align="center">
 <img src="assets/downloads.png" alt="firefox alpha new downloads bar" width="640" height="auto"/>
@@ -105,24 +110,9 @@ New Downloads identificator and simple status panel are now with human design.
 
 &nbsp;
 
-&nbsp;
 
-### Gesture navigation
-
-:arrow_left: `Swipe-Right` to go `Back`;
-
-:arrow_right: `Swipe-Left` to go `Forward`;
-
-:arrows_clockwise: `Pull-Down` to `Reload`;
-
-:asterisk: Configure gestures in the Settings.
-
-&nbsp;
-
-&nbsp;
 
 <div align="center">
-
 <img src="assets/findbar.png" alt="firefox alpha simple findbar" width="640" height="auto"/>
 </div>
 
@@ -132,6 +122,40 @@ New Downloads identificator and simple status panel are now with human design.
 
 &nbsp;
 
+
+
+### Adaptive Color
+
+🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
+
+:warning: Configure in the Extension Settings:
+
+☑️ Allow light tab bar
+
+☑️ Dynamic color update
+
+☑️ Ignore designated color
+
+&nbsp;
+
+
+
+<div align="center">
+<img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
+</div>
+
+### Gesture navigation
+
+🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls. 
+
+:warning: Configure gestures in the Settings:
+
+:arrow_left: `Swipe-Right` to go `Back`
+
+:arrow_right: `Swipe-Left` to go `Forward`
+
+:arrows_clockwise: `Pull-Down` to `Reload`
+
 &nbsp;
 
 
@@ -150,8 +174,6 @@ New Downloads identificator and simple status panel are now with human design.
 
 
 
-
----
 <!-- Install -->
 ## :arrow_down: Install:
 
