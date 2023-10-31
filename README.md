@@ -3,15 +3,15 @@
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="520"/>
 
 <h3>
-<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
+<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" height="24" /> Install</a>
 <span> &nbsp;&nbsp;&nbsp; </span>
-<a href="https://github.com/Tagggar/Firefox-Alpha/issues/">:space_invader: Report Bug</a>
+<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" height="24" /> Report Bug</a>
 <span> &nbsp;&nbsp;&nbsp; </span>
-<a href="https://tagggar.github.io/">:zap: More Projects</a>
+<a href="https://tagggar.github.io/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" height="24" /> More Projects</a>
 </h3>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+
 
 ### Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
@@ -190,7 +190,7 @@ New Downloads identificator and simple status panel are now with human design.
 
 ### Enjoy and Support! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> [Follow on Github](https://github.com/Tagggar)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> [Buy a coffee](https://www.buymeacoffee.com/taggar) 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" height="24"/> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" height="24"/> [Follow on Github](https://github.com/Tagggar)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" height="24"/> [Buy a coffee](https://www.buymeacoffee.com/taggar) 
 
