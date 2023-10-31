@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Firefox-Alphα :moyai: Super clear desktop browser</h2>
-<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="640" height="auto"/>
+<img src="assets/fire-alpha-adapt2x.gif" alt="firefox alpha preview animation adaptive colors" width="560"/>
 
 <h3>
 <a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
