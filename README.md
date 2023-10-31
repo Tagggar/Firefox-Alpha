@@ -11,6 +11,8 @@
 </h3>
 </div>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+
 ### Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
 ### Features:
@@ -24,13 +26,6 @@
 * [x] [Adaptive Color](#adaptive-color)
 * [x] [Gesture navigation](#gesture-navigation)
 * [x] [Security](#security)
-
-&nbsp;
-
-
-<div align="center">
-
-</div>
 
 &nbsp;
 
@@ -51,8 +46,6 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 :monocle_face: Rare glitches may occur due to CSS limits.
 
 &nbsp;
-
-
 
 <div align="center" width="640">
 <img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="640" height="auto"/>
@@ -195,4 +188,9 @@ New Downloads identificator and simple status panel are now with human design.
     `browser.urlbar.clickSelectsAll` > `true` for url selection in single click;
 
 
+### Enjoy and Support! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> [Follow on Github](https://github.com/Tagggar)<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> [Buy a coffee](https://www.buymeacoffee.com/taggar) 
 
