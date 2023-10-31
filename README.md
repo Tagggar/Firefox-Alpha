@@ -1,11 +1,13 @@
 <div align="center">
 <h2>Firefox-Alphα :moyai: Super clear desktop browser</h2>
-<img src="assets/fire-alpha-adapt2x.gif" alt="firefox alpha preview animation adaptive colors" width="560"/>
+<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="520"/>
 
 <h3>
 <a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install">:arrow_down: Install</a>
 <span> &nbsp;&nbsp;&nbsp; </span>
 <a href="https://github.com/Tagggar/Firefox-Alpha/issues/">:space_invader: Report Bug</a>
+<span> &nbsp;&nbsp;&nbsp; </span>
+<a href="https://tagggar.github.io/">:zap: More Projects</a>
 </h3>
 </div>
 
@@ -62,7 +64,7 @@ Stacking tabs into multiple rows enhances tabs access, simplifies navigation, an
 
 `RMB` on Tab to open Tab controls (Pin/Mute/Bookmark/...);
 
-:round_pushpin: Pinned Tabs are set to the left corner;
+:round_pushpin: Pinned Tabs are set to the left corner for quick access;
 
 :mute: The Audio Tab is nicely highlighted, and excessive [Playing] indication removed; 
 
@@ -130,6 +132,12 @@ New Downloads identificator and simple status panel are now with human design.
 
 
 
+
+
+<div align="center">
+<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="520"/>
+</div>
+
 ### Adaptive Color
 
 🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
@@ -147,7 +155,7 @@ New Downloads identificator and simple status panel are now with human design.
 
 
 <div align="center">
-<img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="480" height="auto"/>
+<img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="520" height="auto"/>
 </div>
 
 ### Gesture navigation
