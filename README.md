@@ -1,38 +1,38 @@
 
-# [Firefox-Alphα](#features) 🗿 Super clear desktop browser</h2>
+# [Firefox-Alphα](#features) 🗿 Super clear desktop browser [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="32" height="32" align="top"> Install](#install) </h2>
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug](https://github.com/Tagggar/Firefox-Alpha/issues) &nbsp; [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects](https://tagggar.github.io)
+
 <h3>
-<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top"> Install</a>
-<span> &nbsp; </span>
-<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug</a>
+<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug</a></code>
 <span> &nbsp; </span>
 <a href="https://tagggar.github.io/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects</a>
 </h3>
 
-### `Features :`
+### Features:
 
-### ☑️ [`Combined Tab and Urlbar`](#combined-tab-and-urlbar)
-### ☑️ [`Multi-row Tabs`](#multi-row-tabs)
-### ☑️ [`Multi-row Bookmarks`](#multi-row-bookmarks)
-### ☑️ [`New Clean Menu`](#new-clean-menu)
-### ☑️ [`New Downloads Bar`](#new-downloads-bar)
-### ☑️ [`Simple Finbar`](#simple-findbar)
-### ☑️ [`Adaptive Color`](#adaptive-color)
-### ☑️ [`Gesture navigation`](#gesture-navigation)
-### ☑️ [`Security`](#security)
+* [x] **[Combined Tab and Urlbar](#combined-tab-and-urlbar)**
+* [x] **[Multi-row Tabs](#multi-row-tabs)**
+* [x] **[Multi-row Bookmarks](#multi-row-bookmarks)**
+* [x] **[New Clean Menu](#new-clean-menu)**
+* [x] **[New Downloads Bar](#new-downloads-bar)**
+* [x] **[Simple Finbar](#simple-findbar)**
+* [x] **[Adaptive Color](#adaptive-color)**
+* [x] **[Gesture navigation](#gesture-navigation)**
+* [x] **[Security](#security)**
+
+* [ ] **[Install](#install)**
+* [ ] **[Support](#support-and-enjoy)**
 
 &nbsp;
 
-&nbsp;
-
+## Combined Tab and Urlbar
 
 <img src="assets/preview.gif" alt="firefox alpha preview animation" width="368" height="auto"/>
-
-### `Combined Tab and Urlbar`
 
 Greatly enhances usability and provides a more intuitive browsing experience, eliminating the need for constant switching between UI sections:
 
@@ -48,10 +48,9 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 &nbsp;
 
+## `Multi-row Tabs`
 
 <img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="520" height="auto"/>
-
-### `Multi-row Tabs`
 
 Stacking tabs into multiple rows enhances tabs access, simplifies navigation, and optimizes screen space for efficient multitasking and improved user experience:
 
@@ -198,7 +197,7 @@ New Downloads identificator and simple status panel are now with human design:
     `browser.urlbar.clickSelectsAll` > `true` for url selection in single click;
 
 
-### Enjoy and Support! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+### `Enjoy and Support!`
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" height="24"/> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" height="24"/> [Follow on Github](https://github.com/Tagggar)<br/>
