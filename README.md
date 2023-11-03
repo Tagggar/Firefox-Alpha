@@ -5,13 +5,7 @@
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug](https://github.com/Tagggar/Firefox-Alpha/issues) &nbsp; [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects](https://tagggar.github.io)
-
-<h3>
-<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug</a></code>
-<span> &nbsp; </span>
-<a href="https://tagggar.github.io/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects</a>
-</h3>
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`More Projects`](https://tagggar.github.io)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)
 
 ### Features:
 
@@ -25,10 +19,8 @@ Fast and minimal Firefox configuration with zero buttons, for simplicity and int
 * [x] **[Gesture navigation](#gesture-navigation)**
 * [x] **[Security](#security)**
 
-* [ ] **[Install](#install)**
-* [ ] **[Support](#support-and-enjoy)**
-
 &nbsp;
+
 
 ## Combined Tab and Urlbar
 
@@ -44,13 +36,12 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" height="24" align="top" /> Rare glitches may occur due to CSS limits. </p>
 
-&nbsp;
+
 
 &nbsp;
 
-## `Multi-row Tabs`
 
-<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="520" height="auto"/>
+## Multi-row Tabs
 
 Stacking tabs into multiple rows enhances tabs access, simplifies navigation, and optimizes screen space for efficient multitasking and improved user experience:
 
@@ -62,15 +53,17 @@ Stacking tabs into multiple rows enhances tabs access, simplifies navigation, an
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" align="top" /> Expect perfect UX/UI consistency.</p>
 
-&nbsp;
+<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="520" height="auto"/>
 
 &nbsp;
 
 
+
+
+
+## Multi-row Bookmarks
 
 <img src="assets/bookmarks.png" alt="firefox alpha multi-row bookmarks" width="520" height="auto"/>
-
-### `Multi-row Bookmarks`
 
 Bookmarks are now organized in multiple rows below the Tabs, improving accessibility and resource management, especially for users with a large number of bookmarks:
 
@@ -78,17 +71,20 @@ Set `Bookmarks Toolbar` > `Show only on New Tab` to display Bookmarks only on Ne
 
 Add `History` / `Downloads` to Bookmarks Panel for quick access;
 
-Add `🐸 Emojis` to folder names instead of useless folder icons for better visual identification.
+Add `🥎 Emojis` to folder names instead of useless folder icons for better visual identification.
+
+
 
 &nbsp;
 
-&nbsp;
 
 
+
+
+
+## New Clean Menu
 
 <img src="assets/menu.png" alt="firefox alpha new simple clean menu" width="520" height="auto"/>
-
-### `New Clean Menu`
 
 New consistent Main Menu design, with clear and uniform UI, ensures efficient access to key features. Unnecessary elements are removed to simplify the layout and navigation:
 
@@ -98,42 +94,42 @@ New consistent Main Menu design, with clear and uniform UI, ensures efficient ac
 
 &nbsp;
 
-&nbsp;
 
 
+
+
+
+## New Downloads Bar
 
 <img src="assets/downloads.png" alt="firefox alpha new downloads bar" width="520" height="auto"/>
-
-### `New Downloads Bar`
 
 New Downloads identificator and simple status panel are now with human design:
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" align="top" /> Nice minimalistic progress bar and a consistent menu;</p>
 
-
 ⚠️ Subtle notifications for download status and errors.
 
 &nbsp;
 
-&nbsp;
 
 
-<img src="assets/findbar.png" alt="firefox alpha simple findbar" width="520" height="auto"/>
 
-### `Simple Findbar`
+
+## Simple Findbar
 
 `Ctrl+F` to find on webpage quickly. Findbar now natively integrated into UI.
 
-&nbsp;
+<img src="assets/findbar.png" alt="firefox alpha simple findbar" width="520" height="auto"/>
 
 &nbsp;
 
+
+
+## Adaptive Color
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
-### `Adaptive Color`
-
-🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
+> 🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
 
 ⚠️ Configure the Extension Settings:
 
@@ -143,17 +139,16 @@ New Downloads identificator and simple status panel are now with human design:
 
 * [x] Ignore designated color
 
-&nbsp;
 
 &nbsp;
 
 
+
+## Gesture navigation
 
 <img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="520" height="auto"/>
 
-### `Gesture navigation`
-
-🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls. 
+> 🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls. 
 
 ⚠️ Configure gestures in the Settings:
 
@@ -168,19 +163,15 @@ New Downloads identificator and simple status panel are now with human design:
 
 &nbsp;
 
-&nbsp;
 
+## Security
 
-### `Security`
-
-🔗 **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for fast and secure web.
-
-&nbsp;
+> 🔗 **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for fast and secure web.
 
 &nbsp;
 
 
-### `Install`:
+## Install
 
 1. Type `about:support` in URLBar > open Firefox profile folder and put `chrome` folder:
     
@@ -197,7 +188,9 @@ New Downloads identificator and simple status panel are now with human design:
     `browser.urlbar.clickSelectsAll` > `true` for url selection in single click;
 
 
-### `Enjoy and Support!`
+&nbsp;
+
+## Support
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" height="24"/> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" height="24"/> [Follow on Github](https://github.com/Tagggar)<br/>
