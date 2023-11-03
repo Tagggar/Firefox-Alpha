@@ -1,11 +1,13 @@
 
-# [Firefox-Alphα](#features) 🗿 Super clear desktop browser [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="32" height="32" align="top"> Install](#install) </h2>
+# [Firefox-Alphα](#features) 🗿 Super clear desktop browser [`Install`](#install) </h2>
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`More Projects`](https://tagggar.github.io)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp; &nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)
+
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`More Projects`](https://tagggar.github.io)&nbsp; &nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)
 
 ### Features:
 
@@ -20,6 +22,7 @@ Fast and minimal Firefox configuration with zero buttons, for simplicity and int
 * [x] **[Security](#security)**
 
 &nbsp;
+
 
 
 ## Combined Tab and Urlbar
@@ -43,6 +46,8 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 ## Multi-row Tabs
 
+<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="520" height="auto"/>
+
 Stacking tabs into multiple rows enhances tabs access, simplifies navigation, and optimizes screen space for efficient multitasking and improved user experience:
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" align="top" /> Clear and easily accessible layout;</p>
@@ -53,12 +58,7 @@ Stacking tabs into multiple rows enhances tabs access, simplifies navigation, an
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" align="top" /> Expect perfect UX/UI consistency.</p>
 
-<img src="assets/tabs.png" alt="firefox alpha multi-row tabs" width="520" height="auto"/>
-
 &nbsp;
-
-
-
 
 
 ## Multi-row Bookmarks
@@ -78,10 +78,6 @@ Add `🥎 Emojis` to folder names instead of useless folder icons for better vis
 &nbsp;
 
 
-
-
-
-
 ## New Clean Menu
 
 <img src="assets/menu.png" alt="firefox alpha new simple clean menu" width="520" height="auto"/>
@@ -93,10 +89,6 @@ New consistent Main Menu design, with clear and uniform UI, ensures efficient ac
 :link: Menu can be customized with extensions or CSS: **[simpleMenuWizard](https://github.com/stonecrusher/simpleMenuWizard)**.
 
 &nbsp;
-
-
-
-
 
 
 ## New Downloads Bar
@@ -113,25 +105,21 @@ New Downloads identificator and simple status panel are now with human design:
 
 
 
-
-
 ## Simple Findbar
-
-`Ctrl+F` to find on webpage quickly. Findbar now natively integrated into UI.
 
 <img src="assets/findbar.png" alt="firefox alpha simple findbar" width="520" height="auto"/>
 
+`Ctrl+F` to find on webpage quickly. Findbar now natively integrated into UI.
+
 &nbsp;
-
-
 
 ## Adaptive Color
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
 > 🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
-
-⚠️ Configure the Extension Settings:
+>
+> ⚠️ Configure the Extension Settings:
 
 * [x] Allow light tab bar
 
@@ -148,9 +136,9 @@ New Downloads identificator and simple status panel are now with human design:
 
 <img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="520" height="auto"/>
 
-> 🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls. 
-
-⚠️ Configure gestures in the Settings:
+> 🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls.
+>
+> ⚠️ Configure gestures in the Settings:
 
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" 
         alt="Backhand Index Pointing Left" width="25" height="25" align="top" /> Swipe-Right to go <code>Back</code> </p>
