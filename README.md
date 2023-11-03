@@ -1,13 +1,15 @@
 
-## [Firefox-Alphα](#features) 🗿 Super clear desktop browser 📦&nbsp;[`Install`](#install) </h2>
+## [Firefox-Alphα](#features) 🗿 Super clear desktop browser
 
-<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
+<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="720" height="auto"/>
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`Projects`](https://tagggar.github.io)
+
+## [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`Projects`](https://tagggar.github.io)&nbsp;
 
 ### Features:
 
@@ -184,4 +186,4 @@ New Downloads identificator and simple status panel are now with human design:
 
 ## Support
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" align="top"/> [Star Project](https://github.com/Tagggar/Firefox-Alpha) &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> [More Projects](https://tagggar.github.io) &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/> [Buy a Coffee](https://www.buymeacoffee.com/taggar)
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" align="top"/> Star Project](https://github.com/Tagggar/Firefox-Alpha) &nbsp; [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects](https://tagggar.github.io) &nbsp; [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/> Buy a Coffee](https://www.buymeacoffee.com/taggar)
