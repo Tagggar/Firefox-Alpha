@@ -9,8 +9,6 @@ Fast and minimal Firefox configuration with zero buttons, for simplicity and int
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`Projects`](https://tagggar.github.io)
 
-## [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`Projects`](https://tagggar.github.io)&nbsp;
-
 ### Features:
 
 * [x] **[Combined Tab and Urlbar](#combined-tab-and-urlbar)**
