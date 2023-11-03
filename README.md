@@ -1,5 +1,5 @@
 
-# [Firefox-Alphα](#features) 🗿 Super clear desktop browser &nbsp;[`Install`](#install) </h2>
+## [Firefox-Alphα](#features) 🗿 Super clear desktop browser &nbsp;[`Install`](#install) </h2>
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
@@ -12,13 +12,21 @@ Fast and minimal Firefox configuration with zero buttons, for simplicity and int
 ### Features:
 
 * [x] **[Combined Tab and Urlbar](#combined-tab-and-urlbar)**
+
 * [x] **[Multi-row Tabs](#multi-row-tabs)**
+
 * [x] **[Multi-row Bookmarks](#multi-row-bookmarks)**
+
 * [x] **[New Clean Menu](#new-clean-menu)**
+
 * [x] **[New Downloads Bar](#new-downloads-bar)**
+
 * [x] **[Simple Finbar](#simple-findbar)**
+
 * [x] **[Adaptive Color](#adaptive-color)**
+
 * [x] **[Gesture navigation](#gesture-navigation)**
+
 * [x] **[Security](#security)**
 
 &nbsp;
@@ -140,14 +148,11 @@ New Downloads identificator and simple status panel are now with human design:
 
 ⚠️ Configure gestures in the Settings:
 
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" 
-        alt="Backhand Index Pointing Left" width="25" height="25" align="top" /> Swipe-Right to go <code>Back</code> </p>
+<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Backhand Index Pointing Left" width="25" height="25" align="top" /> Swipe-Right to go <code>Back</code> </p>
 
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" 
-        alt="Backhand Index Pointing Right" width="25" height="25" align="top" /> Swipe-Left to go <code>Forward</code> </p>
+<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" align="top" /> Swipe-Left to go <code>Forward</code> </p>
 
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" 
-        alt="Backhand Index Pointing Up" width="25" height="25" align="top" /> Pull-Down to <code>Reload</code> </p>
+<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Up.png" alt="Backhand Index Pointing Up" width="25" height="25" align="top" /> Pull-Down to <code>Reload</code> </p>
 
 &nbsp;
 
@@ -164,24 +169,26 @@ New Downloads identificator and simple status panel are now with human design:
 
 1. Type `about:support` in URLBar > open Firefox profile folder and put `chrome` folder:
     
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" 
-        alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userChrome.css`
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userChrome.css`
     
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" 
-        alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userContent.css`
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userContent.css`
 
 2. In `about:config` set:
 
     `toolkit.legacyUserProfileCustomizations.stylesheets` > `true` to enable custom themes; 
 
-    `browser.urlbar.clickSelectsAll` > `true` for url selection in single click;
+    `browser.urlbar.clickSelectsAll` > `true` for url selection in single click (optional);
 
 
 &nbsp;
 
 ## Support
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" height="24"/> [Give a star to this project](https://github.com/Tagggar/Firefox-Alpha)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" height="24"/> [Follow on Github](https://github.com/Tagggar)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" height="24"/> [Buy a coffee](https://www.buymeacoffee.com/taggar) 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" align="top"/> [Star this Project](https://github.com/Tagggar/Firefox-Alpha)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> [More Projects](https://tagggar.github.io)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/> [Buy a coffee](https://www.buymeacoffee.com/taggar)
+
+
 
