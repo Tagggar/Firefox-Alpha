@@ -1,5 +1,5 @@
 
-## [Firefox-Alphα](#features) 🗿 Super clear desktop browser &nbsp;[`Install`](#install) </h2>
+## [Firefox-Alphα](#features) 🗿 Super clear desktop browser 📦&nbsp;[`Install`](#install) </h2>
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
