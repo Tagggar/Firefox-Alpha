@@ -5,7 +5,9 @@
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`More Projects`](https://tagggar.github.io)
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)
+
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`All Projects`](https://tagggar.github.io)
 
 ### Features:
 
@@ -115,7 +117,7 @@ New Downloads identificator and simple status panel are now with human design:
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
-🔗 **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
+> **[Adaptive Tab Bar Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour#adaptive-tab-bar-colour)** - extension is required to make browser UI match the website color.
 
 ⚠️ Configure the Extension Settings:
 
@@ -134,7 +136,7 @@ New Downloads identificator and simple status panel are now with human design:
 
 <img src="assets/gestures.png" alt="firefox alpha gesture navigation" width="520" height="auto"/>
 
-🔗 **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls.
+> **[Gesturefy](https://github.com/Robbendebiene/Gesturefy#esturefy)** - extension is required if your OS doesn't support native gesture controls.
 
 ⚠️ Configure gestures in the Settings:
 
@@ -152,7 +154,7 @@ New Downloads identificator and simple status panel are now with human design:
 
 ## Security
 
-> 🔗 **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for fast and secure web.
+> **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for fast and secure web.
 
 &nbsp;
 
