@@ -1,19 +1,16 @@
 
 # [Firefox-Alphα](#features) 🗿 Super clear desktop browser</h2>
 
-<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="520" height="auto"/>
+<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
 Fast and minimal Firefox configuration with zero buttons, for simplicity and intuitive gesture controls. 
 
 <h3>
-<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" 
-                                                                                              alt="Down Arrow" width="25" height="25" align="top"> Install</a>
+<a href="https://github.com/Tagggar/Firefox-Alpha/blob/main/README.md#arrow_down-install"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top"> Install</a>
 <span> &nbsp; </span>
-<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" 
-                                                               alt="Alien Monster" width="25" height="25" align="top"> Report Bug</a>
+<a href="https://github.com/Tagggar/Firefox-Alpha/issues/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top"> Report Bug</a>
 <span> &nbsp; </span>
-<a href="https://tagggar.github.io/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-                                         alt="High Voltage" width="25" height="25" align="top"/> More Projects</a>
+<a href="https://tagggar.github.io/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/> More Projects</a>
 </h3>
 
 ### `Features :`
@@ -45,8 +42,7 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 `MMB` to open New Tab on empty space;
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" 
-       alt="Alien Monster" height="24" align="top" /> Rare glitches may occur due to CSS limits. </p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" height="24" align="top" /> Rare glitches may occur due to CSS limits. </p>
 
 &nbsp;
 
@@ -59,16 +55,13 @@ Greatly enhances usability and provides a more intuitive browsing experience, el
 
 Stacking tabs into multiple rows enhances tabs access, simplifies navigation, and optimizes screen space for efficient multitasking and improved user experience:
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" 
-       alt="Thumbs Up" width="25" height="25" align="top" /> Clear and easily accessible layout;</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" align="top" /> Clear and easily accessible layout;</p>
 
 `RMB` on Tab for Tab controls;
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Muted%20Speaker.png" 
-       alt="Muted Speaker" width="25" height="25" align="top"/> The Audio Tab is nicely highlighted and looks good without any extra [Playing] indications;</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Muted%20Speaker.png" alt="Muted Speaker" width="25" height="25" align="top"/> The Audio Tab is nicely highlighted and looks good without any extra [Playing] indications;</p>
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" 
-       alt="OK Hand" width="25" height="25" align="top" /> Expect perfect UX/UI consistency.</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" align="top" /> Expect perfect UX/UI consistency.</p>
 
 &nbsp;
 
@@ -116,8 +109,7 @@ New consistent Main Menu design, with clear and uniform UI, ensures efficient ac
 
 New Downloads identificator and simple status panel are now with human design:
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" 
-       alt="Thumbs Up" width="25" height="25" align="top" /> Nice minimalistic progress bar and a consistent menu;</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" align="top" /> Nice minimalistic progress bar and a consistent menu;</p>
 
 
 ⚠️ Subtle notifications for download status and errors.
@@ -138,7 +130,7 @@ New Downloads identificator and simple status panel are now with human design:
 &nbsp;
 
 
-<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="520" height="auto"/>
+<img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
 ### `Adaptive Color`
 
@@ -189,7 +181,7 @@ New Downloads identificator and simple status panel are now with human design:
 &nbsp;
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">`Install`:
+### `Install`:
 
 1. Type `about:support` in URLBar > open Firefox profile folder and put `chrome` folder:
     
