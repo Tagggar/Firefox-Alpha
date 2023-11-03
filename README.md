@@ -167,18 +167,17 @@ New Downloads identificator and simple status panel are now with human design:
 
 ## Install
 
-1. Type `about:support` in URLBar > open Firefox profile folder and put `chrome` folder:
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userChrome.css`
-    
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" align="top" /> `...` `/` `firefox profile` `/` `chrome` `/` `userContent.css`
+1. Type `about:support` in URL Bar > open Firefox profile folder and put `chrome` folder:
 
-2. In `about:config` set:
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" align="top" /> `/` `Firefox` `/` `Profiles` `/` `###.default-release` `/` `chrome`
 
-    `toolkit.legacyUserProfileCustomizations.stylesheets` > `true` to enable custom themes; 
+2. Type `about:config` in URL Bar and set:
 
-    `browser.urlbar.clickSelectsAll` > `true` for url selection in single click (optional);
+   `toolkit.legacyUserProfileCustomizations.stylesheets` > `true` to enable css themes;
 
+   `browser.urlbar.clickSelectsAll` > `true` for url selection in single click (optional);
+
+3. Restart Firefox and Enjoy
 
 &nbsp;
 
