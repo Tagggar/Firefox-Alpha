@@ -1,5 +1,5 @@
 
-# [Firefox-Alphα](#features) 🗿 Super clear desktop browser [`Install`](#install) </h2>
+# [Firefox-Alphα](#features) 🗿 Super clear desktop browser &nbsp;[`Install`](#install) </h2>
 
 <img src="assets/fire-alpha-adapt.gif" alt="firefox alpha preview animation adaptive colors" width="800" height="auto"/>
 
@@ -7,7 +7,7 @@ Fast and minimal Firefox configuration with zero buttons, for simplicity and int
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" align="top">&nbsp;`Install`](#install)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="top">&nbsp;`Report Bug`](https://github.com/Tagggar/Firefox-Alpha/issues)
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`All Projects`](https://tagggar.github.io)
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" align="top"/>&nbsp;`Support`](#support)&nbsp;[<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="top"/>&nbsp;`Projects`](https://tagggar.github.io)
 
 ### Features:
 
@@ -154,7 +154,8 @@ New Downloads identificator and simple status panel are now with human design:
 
 ## Security
 
-> **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances. Follow the configuration guides and your personal preferences for fast and secure web.
+> **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances.
+> <br>Follow the configuration guides and your personal preferences for fast and secure web.
 
 &nbsp;
 
