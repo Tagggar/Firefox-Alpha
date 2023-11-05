@@ -162,6 +162,27 @@ New Downloads identificator and simple status panel are now with human design:
 > **[ uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin-ubo)** - effective content blocker for ads, trackers, miners, popups, malware and other web annoynances.
 > <br>Follow the configuration guides and your personal preferences for fast and secure web.
 
+### Search suggestions in URL bar are disabled intentionally for several reasons:
+
+In some of my UX research, I found interesting results indicating that **disabling search suggestions** in the URL bar can **reduce cognitive load and help maintain focus.**
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" align="top"/> **`Productivity boost by lowering distractions and cognitive load`**
+
+Disabling search suggestions cultivates a sense of control, reducing distractions and improving satisfaction. Users can concentrate on their tasks, boosting efficiency and search accuracy. This minimalist approach is especially helpful for users who find constant suggestions overwhelming, thereby enhancing the overall UX.
+
+> **Search suggestions are still available on search engine webpage.**  
+> Sometimes, search engine provides **[grammatically wrong suggestions](https://support.google.com/websearch/thread/56300495/sometimes-google-search-gives-me-grammatically-wrong-suggestions?hl=en)** (check google community forums for more info)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" align="top"/> **`Data privacy`**
+
+Suggestions are often based on the user's browsing history, frequently visited websites, and search patterns. Consequently, this personal data can be vulnerable, leading to privacy violations or badly targeted advertising. Users may also feel uncomfortable with the notion that their search behavior is being tracked and used for commercial or other purposes without their explicit consent.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" align="top"/> **`Echo chambers`**
+
+The reliance on personalized suggestions may result in the formation of echo chambers, limiting users' exposure to diverse perspectives and information. This can potentially reinforce existing biases and restrict the exploration of alternative viewpoints.
+
+> **In other words, the user gains significantly improved search results by correctly formulating the search query themselves, rather than relying on suggestions.**
+
 &nbsp;
 
 
@@ -175,9 +196,11 @@ New Downloads identificator and simple status panel are now with human design:
 
    `toolkit.legacyUserProfileCustomizations.stylesheets` > `true` to enable css themes;
 
+   `browser.urlbar.maxRichResults` > `0` to hide search suggestions pop-up;
+
    `browser.urlbar.clickSelectsAll` > `true` for url selection in single click (optional);
 
-3. Restart Firefox and Enjoy
+4. Restart Firefox and Enjoy
 
 &nbsp;
 
